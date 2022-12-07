@@ -1,0 +1,63 @@
+{
+  "victims": [
+    {
+      "id": 1,
+      "vfirstName": "Umer",
+      "vlastName": "Momin",
+      "vMobno": "7020084368",
+      "vAddress": "shamrav nagar",
+      "vCity": "sangli",
+      "vEmail": "umerymomin@gmail.com",
+      "vUserName": "Umer36",
+      "vPassword": "Umer@123",
+      "vRePassword": "Umer@123"
+    },
+    {
+      "vfirstName": "Khalid",
+      "vlastName": "Momin",
+      "vMobno": "98746322114",
+      "vAddress": "sangli",
+      "vCity": "sagli",
+      "vEmail": "",
+      "vUserName": "khalid",
+      "vPassword": "1234",
+      "vRePassword": "1234",
+      "id": 2
+    }
+   
+  ],
+  "volunteers": [
+    {
+      "volFname": "Rahul",
+      "volLname": "More",
+      "volMobNo": "12313",
+      "volAddress": "mumabi sangli",
+      "volCity": "dubai",
+      "volEmail": "rahul@gmail.com",
+      "volType": "rescue operations",
+      "volBloodg": "o+",
+      "volUserName": "rahul123",
+      "volPassword": "rahul@9898",
+      "volRePassword": "rahul@9898"
+    }
+  ],
+  "organizations": [
+    {
+      "oType" : "CDAC",
+      "oName" : "Silchar",
+      "oAuthoName" : "DAVID",
+      "oMobNo" : "55454452121",
+      "oAddress" : "Silchar Assam",
+      "oCity" : "Silchar",
+      "oEmail" : "silcahr@gmail.com",
+      "oRegisNo" : "545454545",
+      "oUrl" : "cdacsilchar@gmail.com",
+      "oUserName" : "silcahr123",
+      "oPassword" : "Sichar@123",
+      "oRePassword":"Silchar@123"
+    }
+  ]
+ 
+  
+
+}
